@@ -11,8 +11,8 @@ const config = {
 			"name": "", /** Votre Pseudo */
 			"discord_id": "721119680416448582", /** Votre ID */
 		}],
-		"github": "https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges", /** Votre Guithub */
-		"github_raw": "https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js"
+		"github": "https://github.com/FrenchDevelopper/DiscordBadges/blob/main/BadgesDiscord",
+		"github_raw": "https://github.com/FrenchDevelopper/DiscordBadges/blob/main/BadgesDiscord.js"
 	},
 	"build": {
 		"zlibrary": true,
